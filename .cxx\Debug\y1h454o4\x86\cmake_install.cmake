@@ -1,0 +1,1 @@
+C:\Users\didi_\AndroidStudioProjects\DesafioSeldon\app\build\intermediates\cxx\Debug\y1h454o4\obj\x86
